@@ -26,7 +26,7 @@
 - /accounts/{id}/deposit - пополнение баланса
 - /accounts/{id}/withdraw - снятие средств
 - /accounts - создание нового аккаунта
-Все POST запросы принимают JSON с балансом:
+Все POST запросы принимают JSON с балансом: \
 `{ "balance": 123 }`
 
 `GET`
